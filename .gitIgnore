@@ -1,0 +1,87 @@
+# Archivos de sistema de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Archivos de icono
+Icon?
+
+# Archivos creados por Finder
+._*
+
+# Archivos de sistema de macOS
+.Spotlight-V100
+.Trashes
+.DS_Store
+*/.DS_Store
+*/.AppleDouble
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Visual Studio
+.vs/
+
+# Archivos de salida de compilación
+bin/
+obj/
+
+# Configuración de usuario
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Paquetes de dependencias (nuget)
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+project.lock.json
+
+# Archivos de lock y de compilación
+project.assets.json
+project.fragment.lock.json
+project.nuget.cache
+*.csproj.user
+*.csproj.bak
+*.dbmdl
+
+# Archivos de publicación locales
+.publish/
+
+# Archivos de logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Archivos de cobertura de pruebas
+coverage/
+*.coverage
+*.coveragexml
+
+# Archivos de configuración de IDEs
+.idea/
+*.sln.iml
+
+# Carpetas y archivos de Docker
+docker-compose.override.yml
+docker-compose.*.yml
+Dockerfile.*
+
+# Certificados locales (si usas HTTPS en desarrollo)
+localhost.pfx
+*.pfx
+
+# Archivos de seguridad
+secrets.json
+
+# Archivos de Azure
+.azure/
+
+# Archivos de configuración de Rider
+.idea/
+*.sln.iml
